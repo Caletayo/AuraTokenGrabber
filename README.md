@@ -4,7 +4,7 @@
 
 ---
 
-#### [Discord](https://discord.gg/5BJa778F7B) - [Build](#salepute)
+#### [Discord](https://discord.gg/5BJa778F7B) - [Build](#salepute) 
 
 AuraThemes Stealer: Steal discord tokens and get privileged access!
 
