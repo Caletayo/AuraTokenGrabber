@@ -1,0 +1,10 @@
+node_modules
+desktopServer/package-lock.json
+desktopServer/node_modules
+
+desktopClient/package-lock.json
+desktopClient/node_modules
+
+testting/*.js
+realfiles/*.js
+inject/*.js
