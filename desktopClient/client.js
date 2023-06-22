@@ -83,6 +83,9 @@ try {
                 toInject.forEach(r => Glob.sync(`${r}/app-*/modules/discord_desktop_core-*/discord_desktop_core/index.js`).map(path => toInjectJS.push(path)))
             }
 
+
+            //SOON MORE INFORMATIONS...
+
             
             break;
         case "linux":
