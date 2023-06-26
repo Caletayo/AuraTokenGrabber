@@ -100,4 +100,4 @@ With this, everything should be set up correctly, and it should work by running 
 
 ## README Spanish soon...
 
-*⚠️: I AM NOT **RESPONSIBLE** FOR THE MISUSE OF THIS Script, Nor of the bad use that they give it*
+*⚠️: I AM NOT **RESPONSIBLE** FOR THE MISUSE OF THIS Script, Nor of the bad use that they give it.*
